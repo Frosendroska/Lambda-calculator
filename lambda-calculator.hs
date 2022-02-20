@@ -1,7 +1,7 @@
 import Data.List
 import Data.Maybe
 
-type Symb = String
+type Symb = String 
 
 infixl 2 :@
 

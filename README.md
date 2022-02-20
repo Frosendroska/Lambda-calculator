@@ -1,5 +1,5 @@
 # Lambda-calculator
 
-## HSE University | Nov.2021–Dec.2021
+## HSE University _(December 2021)_
 
 Haskell library which allows beta reduction of lambda terms and helps solving problems of their alpha and beta equivalence
